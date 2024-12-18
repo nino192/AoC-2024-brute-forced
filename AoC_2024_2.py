@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-# 318!
-
 f = open("AoC_2024_2.txt","r")
 lists = f.readlines()
 count = 0
